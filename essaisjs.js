@@ -15,7 +15,7 @@ function lagon() {
 	}
 	
 	if (f==1) {
-		resultat1.textContent=" ton résultat est de 1 sur 3, tu devrais relire les documents."
+		resultat1.textContent=" ton résultat est de 1 sur 3, c'est un peu juste."
 	}
 	if (f==2) {
 		resultat1.textContent=" ton résultat est de 2 sur 3, domage."
@@ -43,7 +43,7 @@ function bidonville() {
 	}
 	
 	if (f==1) {
-		resultat2.textContent=" ton résultat est de 1 sur 3, tu devrais relire les documents."
+		resultat2.textContent=" ton résultat est de 1 sur 3, c'est un peu juste."
 	}
 	if (f==2) {
 		resultat2.textContent=" ton résultat est de 2 sur 3, domage."
